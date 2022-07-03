@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/prasad_rahul511" target="blank"><img src="https://img.shields.io/twitter/follow/prasad_rahul511?logo=twitter&style=for-the-badge" alt="prasad_rahul511" /></a> </p>
 
-- 🔭 I’m currently working on Cloning *Disney plus hotstar*
+- 🔭 I’m currently working on Cloning **Disney plus hotstar**
 
-- 🌱 I’m currently learning *Devops , Blockchain development*
+- 🌱 I’m currently learning **Devops , Blockchain development**
 
-- 👯 I’m looking to collaborate on *Cloning of Twitter,linkedin and Coinbase*
+- 👯 I’m looking to collaborate on **Cloning of Twitter,linkedin and Coinbase**
 
-- 🤝 I’m looking for help with *BACKEND*
+- 🤝 I’m looking for help with **BACKEND**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rahul-Prasad-07?tab=repositories](https://github.com/Rahul-Prasad-07?tab=repositories)
 
-- 💬 Ask me about *React , Devops , Blockchain*
+- 💬 Ask me about **React , Devops , Blockchain**
 
 - 📫 How to reach me *prasadrahulprn3@gmail.com*
 
