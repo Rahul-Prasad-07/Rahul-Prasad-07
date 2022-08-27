@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on building community Resolute & RD
 
-- 🤝 I’m looking for help with BACKEND
+- 🤝 I’m looking for help with BACKEND and DEPLOYMENT
 
 - 👨‍💻 All of my projects are available at https://rahul-prasad-07.github.io/rahul-master_1
 
