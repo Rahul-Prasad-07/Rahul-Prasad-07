@@ -34,7 +34,6 @@ Netflix uses it to.... </p> <br/>
 <a href="https://rahulprasad.hashnode.dev/what-are-microservices-and-why-you-should-use-them" title="My First KubeCon + CloudNativeCon North America 2022 Experience"><strong>My First KubeCon + CloudNativeCon North America 2022 Experience</strong></a>
 <br/>I'm a complete beginner in the cloud-native world. I came across this KubeCon North America 🇺🇸 Travel Scholarship Giveaway!✈️ + Introduction to CNCF + Getting Involved - with Priyanka Sharma Videos in my recommendations.I'm very happy that day when I received Dan Kohn Student Scholarship in order to attend KubeCon + CloudNativeCon North America 2022 Virtually..... </p> <br/>
 <!-- HASHNODE_BLOG:END -->
-
 <h3 align="center">For More Blogs👇</h3>
   
 <p align="center"><a href="https://rahulprasad.hashnode.dev"><img src="https://user-images.githubusercontent.com/99068989/210178252-3748aa2f-bf99-4308-9df3-69bc027902dc.png" width="250px"></a></p><br/>
@@ -42,11 +41,7 @@ Netflix uses it to.... </p> <br/>
 
 ## Testimonials
 
-<p align="left"><a href="https://rahulprasad.hashnode.dev"><img src="https://user-images.githubusercontent.com/99068989/210179086-d93c54bb-389c-4252-bd6b-4a796cbc329a.png" width="750px"></a></p><br/>
+<p align="left"><a href="https://rahulprasad.hashnode.dev"><img src="https://user-images.githubusercontent.com/99068989/210179086-d93c54bb-389c-4252-bd6b-4a796cbc329a.png" width="750px"></a></p>
 <p align="right"><a href="https://rahulprasad.hashnode.dev"><img src="https://user-images.githubusercontent.com/99068989/210179150-7f4599a6-919d-4c74-98d5-ada220efa99d.png" width="750px"></a></p><br/>
-
-## Github Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-prasad-07&show_icons=true&locale=en" alt="rahul-prasad-07" /></p>
 
 
