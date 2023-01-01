@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-prasad-07&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-prasad-07" /> </p>
 
-<p align="left"> <a href="https://twitter.com/prasad_rahul511" target="blank"><img src="https://img.shields.io/twitter/follow/prasad_rahul511?logo=twitter&style=for-the-badge" alt="prasad_rahul511" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rahultwte" target="blank"><img src="https://img.shields.io/twitter/follow/rahultwte?logo=twitter&style=for-the-badge" alt="rahultwte" /></a> </p>
 
 - 🔭 I’m currently working on Open Source Project of JP Morgan
 
