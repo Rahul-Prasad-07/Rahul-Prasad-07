@@ -20,6 +20,34 @@ I am a collaborative **Blockchain** and  **DevOps**  developer.I am specialize i
 
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://rahulprasad.hashnode.dev//what-is-datree-why-as-devops-engineer-you-have-to-use-it" title="What is Datree & Why as DevOps engineer you have  to use it ?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676470329404/e06c25a3-38d5-4057-9b4b-c658257d947b.png" alt="What is Datree & Why as DevOps engineer you have  to use it ?" width="250px" align="left" /></a>
+<a href="https://rahulprasad.hashnode.dev//what-is-datree-why-as-devops-engineer-you-have-to-use-it" title="What is Datree & Why as DevOps engineer you have  to use it ?"><strong>What is Datree & Why as DevOps engineer you have  to use it ?</strong></a>
+<br/> #WeMakeDevs
+Hello 👋 DevOps Learners, In this blog you'll get a clear aspect of what is datree and how one can get started with it as a beginner.
+I'm very much excited 😃 to share my knowledge and research done to write📝this blog just for you folk.
+... </p> <br/> <br/>
+<p align="left">
+<a href="https://rahulprasad.hashnode.dev//what-are-microservices-and-why-you-should-use-them" title="What are Microservices and why you should use them?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1669634129401/lF5OaG2Nz.png" alt="What are Microservices and why you should use them?" width="250px" align="left" /></a>
+<a href="https://rahulprasad.hashnode.dev//what-are-microservices-and-why-you-should-use-them" title="What are Microservices and why you should use them?"><strong>What are Microservices and why you should use them?</strong></a>
+<br/> Do you know what’s common to Amazon, Netflix, and NASA?
+--> All three of them use DevOps. 
+
+Amazon uses it to deploy new software to production at an average of every 11.6 seconds!
+Netflix uses it to deploy web images into its web-based platform. The... </p> <br/> <br/>
+<p align="left">
+<a href="https://rahulprasad.hashnode.dev//my-first-kubecon-cloudnativecon-north-america-2022-experience" title="My First KubeCon + CloudNativeCon North America 2022 Experience"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1669296810967/Xn_dxF2N56.jpg" alt="My First KubeCon + CloudNativeCon North America 2022 Experience" width="250px" align="left" /></a>
+<a href="https://rahulprasad.hashnode.dev//my-first-kubecon-cloudnativecon-north-america-2022-experience" title="My First KubeCon + CloudNativeCon North America 2022 Experience"><strong>My First KubeCon + CloudNativeCon North America 2022 Experience</strong></a>
+<br/> How did I come across KubeCon?
+ I'm a complete beginner in the cloud-native world. I came across this KubeCon North America 🇺🇸 Travel Scholarship Giveaway!✈️  + Introduction to CNCF + Getting Involved - with Priyanka Sharma Videos in my recommendat... </p> <br/> <br/>
+<p align="left">
+<a href="https://rahulprasad.hashnode.dev//how-to-learn-web3-2022" title="How to learn Web3 (2022)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662098303791/YrA2QbxtQ.png" alt="How to learn Web3 (2022)" width="250px" align="left" /></a>
+<a href="https://rahulprasad.hashnode.dev//how-to-learn-web3-2022" title="How to learn Web3 (2022)"><strong>How to learn Web3 (2022)</strong></a>
+<br/> Hi,
+I am Rahul Prasad, and I share daily content about Web3 (mainly on Twitter and LinkedIn)
+In this article, I will summarize the steps you can take in order to learn Web3.
+Where to start ?
+When we want to start something new, we need some direction... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
