@@ -27,6 +27,11 @@ I am a collaborative **Blockchain** and  **DevOps**  developer.I am specialize i
 Greetings 👋 to all DevOps enthusiasts out there! Are you ready to dive into the exciting world of Docker 🐳 and build your first cool project?
 In this blog post, you'll find a comprehensive, step-by-step guide that will help you get star... </p> <br/> <br/>
 <p align="left">
+<a href="https://rahulprasad.hashnode.dev//display-your-latest-hashnode-blogs-on-your-github-profile-a-step-by-step-guide" title="Display Your Latest Hashnode Blogs on Your GitHub Profile: A Step-by-Step Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677419149842/41fa6a6f-83f6-4fcc-97d2-4c90fe9bbed5.png" alt="Display Your Latest Hashnode Blogs on Your GitHub Profile: A Step-by-Step Guide" width="250px" align="left" /></a>
+<a href="https://rahulprasad.hashnode.dev//display-your-latest-hashnode-blogs-on-your-github-profile-a-step-by-step-guide" title="Display Your Latest Hashnode Blogs on Your GitHub Profile: A Step-by-Step Guide"><strong>Display Your Latest Hashnode Blogs on Your GitHub Profile: A Step-by-Step Guide</strong></a>
+<br/> Hey 👋 there!
+As developers, we're always looking to expand our online presence and share our knowledge with others. From tips and tricks to in-depth guides, we use platforms like Hashnode, Dev Community, and Medium to reach a wider audience. Persona... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulprasad.hashnode.dev//what-is-datree-why-as-devops-engineer-you-have-to-use-it" title="What is Datree & Why as DevOps engineer you have  to use it ?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676470329404/e06c25a3-38d5-4057-9b4b-c658257d947b.png" alt="What is Datree & Why as DevOps engineer you have  to use it ?" width="250px" align="left" /></a>
 <a href="https://rahulprasad.hashnode.dev//what-is-datree-why-as-devops-engineer-you-have-to-use-it" title="What is Datree & Why as DevOps engineer you have  to use it ?"><strong>What is Datree & Why as DevOps engineer you have  to use it ?</strong></a>
 <br/> #WeMakeDevs
@@ -41,11 +46,6 @@ I'm very much excited 😃 to share my knowledge and research done to write📝t
 
 Amazon uses it to deploy new software to production at an average of every 11.6 seconds!
 Netflix uses it to deploy web images into its web-based platform. The... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulprasad.hashnode.dev//my-first-kubecon-cloudnativecon-north-america-2022-experience" title="My First KubeCon + CloudNativeCon North America 2022 Experience"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1669296810967/Xn_dxF2N56.jpg" alt="My First KubeCon + CloudNativeCon North America 2022 Experience" width="250px" align="left" /></a>
-<a href="https://rahulprasad.hashnode.dev//my-first-kubecon-cloudnativecon-north-america-2022-experience" title="My First KubeCon + CloudNativeCon North America 2022 Experience"><strong>My First KubeCon + CloudNativeCon North America 2022 Experience</strong></a>
-<br/> How did I come across KubeCon?
- I'm a complete beginner in the cloud-native world. I came across this KubeCon North America 🇺🇸 Travel Scholarship Giveaway!✈️  + Introduction to CNCF + Getting Involved - with Priyanka Sharma Videos in my recommendat... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
