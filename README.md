@@ -23,9 +23,8 @@ I am a collaborative **Blockchain** and  **DevOps**  developer.I am specialize i
 <p align="left">
 <a href="https://rahulprasad.hashnode.dev//diving-into-docker-a-beginners-first-project" title="Diving into Docker: A Beginner's First Project"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677321844020/9fc45144-4ab7-4389-bb3a-f1ce63ca2cae.png" alt="Diving into Docker: A Beginner's First Project" width="250px" align="left" /></a>
 <a href="https://rahulprasad.hashnode.dev//diving-into-docker-a-beginners-first-project" title="Diving into Docker: A Beginner's First Project"><strong>Diving into Docker: A Beginner's First Project</strong></a>
-<br/> #WeMakeDevs
-Greetings 👋 to all DevOps enthusiasts out there! Are you ready to dive into the exciting world of Docker 🐳 and build your first cool project?
-In this blog post, you'll find a comprehensive, step-by-step guide that will help you get star... </p> <br/> <br/>
+<br/> Greetings 👋 to all DevOps enthusiasts out there! Are you ready to dive into the exciting world of Docker 🐳 and build your first cool project?
+In this blog post, you'll find a comprehensive, step-by-step guide that will help you get started with Doc... </p> <br/> <br/>
 <p align="left">
 <a href="https://rahulprasad.hashnode.dev//display-your-latest-hashnode-blogs-on-your-github-profile-a-step-by-step-guide" title="Display Your Latest Hashnode Blogs on Your GitHub Profile: A Step-by-Step Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677419149842/41fa6a6f-83f6-4fcc-97d2-4c90fe9bbed5.png" alt="Display Your Latest Hashnode Blogs on Your GitHub Profile: A Step-by-Step Guide" width="250px" align="left" /></a>
 <a href="https://rahulprasad.hashnode.dev//display-your-latest-hashnode-blogs-on-your-github-profile-a-step-by-step-guide" title="Display Your Latest Hashnode Blogs on Your GitHub Profile: A Step-by-Step Guide"><strong>Display Your Latest Hashnode Blogs on Your GitHub Profile: A Step-by-Step Guide</strong></a>
