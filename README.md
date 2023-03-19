@@ -54,11 +54,11 @@ Netflix uses it to deploy web images into its web-based platform. The... </p> <b
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/2) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-2. 💪 Opened PR [#2](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/2) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-3. 🎉 Merged PR [#1](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/1) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-4. 💪 Opened PR [#1](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/1) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-5. ❗️ Opened issue [#10](https://github.com/santoshyadavdev/santoshyadavdev/issues/10) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+1. 🎉 Merged PR [#4](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/4) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+2. 💪 Opened PR [#4](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/4) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+3. 🎉 Merged PR [#3](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/3) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+4. 💪 Opened PR [#3](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/3) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+5. 🎉 Merged PR [#2](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/2) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
 <!--END_SECTION:activity-->
 
 
