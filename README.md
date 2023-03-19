@@ -54,11 +54,11 @@ Netflix uses it to deploy web images into its web-based platform. The... </p> <b
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/santoshyadavdev/santoshyadavdev/issues/10) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-2. ❗️ Closed issue [#23](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/issues/23) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
-3. 🗣 Commented on [#23](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/issues/23) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
-4. ❗️ Opened issue [#23](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/issues/23) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
-5. ❗️ Opened issue [#22](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/issues/22) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
+1. 🎉 Merged PR [#1](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/1) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+2. 💪 Opened PR [#1](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/1) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+3. ❗️ Opened issue [#10](https://github.com/santoshyadavdev/santoshyadavdev/issues/10) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+4. ❗️ Closed issue [#23](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/issues/23) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
+5. 🗣 Commented on [#23](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/issues/23) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
 <!--END_SECTION:activity-->
 
 
