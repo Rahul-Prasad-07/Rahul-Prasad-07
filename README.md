@@ -52,6 +52,9 @@ Netflix uses it to deploy web images into its web-based platform. The... </p> <b
   
 <p align="center"><a href="https://rahulprasad.hashnode.dev"><img src="https://user-images.githubusercontent.com/99068989/210178252-3748aa2f-bf99-4308-9df3-69bc027902dc.png" width="200px"></a></p><br/>
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 ## Testimonials
 
