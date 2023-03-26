@@ -54,11 +54,11 @@ Netflix uses it to deploy web images into its web-based platform. The... </p> <b
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com/oceanByte/chainlink-education/issues/29) in [oceanByte/chainlink-education](https://github.com/oceanByte/chainlink-education)
-2. 🗣 Commented on [#1138](https://github.com/smartcontractkit/documentation/issues/1138) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
-3. 🗣 Commented on [#1138](https://github.com/smartcontractkit/documentation/issues/1138) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
-4. 🎉 Merged PR [#20](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/20) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-5. 💪 Opened PR [#20](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/20) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+1. 🎉 Merged PR [#21](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/21) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+2. 💪 Opened PR [#21](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/21) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+3. ❗️ Opened issue [#29](https://github.com/oceanByte/chainlink-education/issues/29) in [oceanByte/chainlink-education](https://github.com/oceanByte/chainlink-education)
+4. 🗣 Commented on [#1138](https://github.com/smartcontractkit/documentation/issues/1138) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
+5. 🗣 Commented on [#1138](https://github.com/smartcontractkit/documentation/issues/1138) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
 <!--END_SECTION:activity-->
 
 
