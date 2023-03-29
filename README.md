@@ -54,11 +54,11 @@ Netflix uses it to deploy web images into its web-based platform. The... </p> <b
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/24) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-2. 💪 Opened PR [#24](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/24) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-3. 🎉 Merged PR [#23](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/23) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-4. 💪 Opened PR [#23](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/23) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-5. 🎉 Merged PR [#22](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/22) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+1. ❗️ Opened issue [#39](https://github.com/eth-clients/sepolia/issues/39) in [eth-clients/sepolia](https://github.com/eth-clients/sepolia)
+2. 🎉 Merged PR [#24](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/24) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+3. 💪 Opened PR [#24](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/24) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+4. 🎉 Merged PR [#23](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/23) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+5. 💪 Opened PR [#23](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/23) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
 <!--END_SECTION:activity-->
 
 
