@@ -26,6 +26,10 @@ I am a collaborative **Blockchain** and  **DevOps**  developer.I am specialize i
 <br/> Greetings 👋 to all DevOps enthusiasts out there! Are you ready to dive into the exciting world of Docker 🐳 and build your first cool project?
 In this blog post, you'll find a comprehensive, step-by-step guide that will help you get started with Doc... </p> <br/> <br/>
 <p align="left">
+<a href="https://rahulprasad.hashnode.dev//chainlink-building-web3-together" title="ChainLink : Building Web3 Together"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680012549368/ee6c0650-ebab-46ff-ae85-f7fe96a3b277.png" alt="ChainLink : Building Web3 Together" width="250px" align="left" /></a>
+<a href="https://rahulprasad.hashnode.dev//chainlink-building-web3-together" title="ChainLink : Building Web3 Together"><strong>ChainLink : Building Web3 Together</strong></a>
+<br/> I believe we're in a unique moment in time. When we look back in 10 years, it'll be clear how special this movement is. Up until now, centralization limited how things could be built. Central entities could change the rules of the game at any time, i... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulprasad.hashnode.dev//display-your-latest-hashnode-blogs-on-your-github-profile-a-step-by-step-guide" title="Display Your Latest Hashnode Blogs on Your GitHub Profile: A Step-by-Step Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677419149842/41fa6a6f-83f6-4fcc-97d2-4c90fe9bbed5.png" alt="Display Your Latest Hashnode Blogs on Your GitHub Profile: A Step-by-Step Guide" width="250px" align="left" /></a>
 <a href="https://rahulprasad.hashnode.dev//display-your-latest-hashnode-blogs-on-your-github-profile-a-step-by-step-guide" title="Display Your Latest Hashnode Blogs on Your GitHub Profile: A Step-by-Step Guide"><strong>Display Your Latest Hashnode Blogs on Your GitHub Profile: A Step-by-Step Guide</strong></a>
 <br/> Hey 👋 there!
@@ -37,14 +41,6 @@ As developers, we're always looking to expand our online presence and share our 
 Hello 👋 DevOps Learners, In this blog you'll get a clear aspect of what is datree and how one can get started with it as a beginner.
 I'm very much excited 😃 to share my knowledge and research done to write📝this blog just for you folk.
 ... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulprasad.hashnode.dev//what-are-microservices-and-why-you-should-use-them" title="What are Microservices and why you should use them?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1669634129401/lF5OaG2Nz.png" alt="What are Microservices and why you should use them?" width="250px" align="left" /></a>
-<a href="https://rahulprasad.hashnode.dev//what-are-microservices-and-why-you-should-use-them" title="What are Microservices and why you should use them?"><strong>What are Microservices and why you should use them?</strong></a>
-<br/> Do you know what’s common to Amazon, Netflix, and NASA?
---> All three of them use DevOps. 
-
-Amazon uses it to deploy new software to production at an average of every 11.6 seconds!
-Netflix uses it to deploy web images into its web-based platform. The... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
