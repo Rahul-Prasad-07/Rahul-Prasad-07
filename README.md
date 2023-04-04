@@ -50,11 +50,11 @@ I'm very much excited 😃 to share my knowledge and research done to write📝t
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1227](https://github.com/smartcontractkit/documentation/pull/1227) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
-2. ❗️ Opened issue [#1226](https://github.com/smartcontractkit/documentation/issues/1226) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
-3. ❗️ Opened issue [#39](https://github.com/eth-clients/sepolia/issues/39) in [eth-clients/sepolia](https://github.com/eth-clients/sepolia)
-4. 🎉 Merged PR [#24](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/24) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-5. 💪 Opened PR [#24](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/24) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+1. 🎉 Merged PR [#25](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/25) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+2. 💪 Opened PR [#25](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/25) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+3. 💪 Opened PR [#1227](https://github.com/smartcontractkit/documentation/pull/1227) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
+4. ❗️ Opened issue [#1226](https://github.com/smartcontractkit/documentation/issues/1226) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
+5. ❗️ Opened issue [#39](https://github.com/eth-clients/sepolia/issues/39) in [eth-clients/sepolia](https://github.com/eth-clients/sepolia)
 <!--END_SECTION:activity-->
 
 
