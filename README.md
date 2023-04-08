@@ -50,11 +50,11 @@ I'm very much excited 😃 to share my knowledge and research done to write📝t
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/28) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-2. 💪 Opened PR [#28](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/28) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-3. ❌ Closed PR [#27](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/27) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-4. 💪 Opened PR [#27](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/27) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-5. ❌ Closed PR [#26](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/26) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+1. 🎉 Merged PR [#30](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/30) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+2. 💪 Opened PR [#30](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/30) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+3. 💪 Opened PR [#29](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/29) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+4. 🎉 Merged PR [#28](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/28) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+5. 💪 Opened PR [#28](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/28) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
 <!--END_SECTION:activity-->
 
 
