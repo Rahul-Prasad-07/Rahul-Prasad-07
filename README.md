@@ -50,11 +50,11 @@ I'm very much excited 😃 to share my knowledge and research done to write📝t
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#22](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/issues/22) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
-2. 🎉 Merged PR [#24](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/24) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
-3. 💪 Opened PR [#24](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/24) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
-4. 🎉 Merged PR [#31](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/31) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-5. 💪 Opened PR [#31](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/31) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+1. 🎉 Merged PR [#25](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/25) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
+2. 💪 Opened PR [#25](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/25) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
+3. ❗️ Closed issue [#22](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/issues/22) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
+4. 🎉 Merged PR [#24](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/24) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
+5. 💪 Opened PR [#24](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/24) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
 <!--END_SECTION:activity-->
 
 
