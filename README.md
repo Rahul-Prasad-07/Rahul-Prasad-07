@@ -28,7 +28,9 @@ In this blog post, you'll find a comprehensive, step-by-step guide that will hel
 <p align="left">
 <a href="https://rahulprasad.hashnode.dev//chainlink-building-web3-together" title="ChainLink : Building Web3 Together"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680012549368/ee6c0650-ebab-46ff-ae85-f7fe96a3b277.png" alt="ChainLink : Building Web3 Together" width="250px" align="left" /></a>
 <a href="https://rahulprasad.hashnode.dev//chainlink-building-web3-together" title="ChainLink : Building Web3 Together"><strong>ChainLink : Building Web3 Together</strong></a>
-<br/> I believe we're in a unique moment in time. When we look back in 10 years, it'll be clear how special this movement is. Up until now, centralization limited how things could be built. Central entities could change the rules of the game at any time, i... </p> <br/> <br/>
+<br/> Welcome to this chainlink web3 blog series, where I'm exploring the exciting world of web3 and its potential to change the future of technology and society.
+Web3 Revolution Begins!
+I believe we're in a unique moment in time. When we look back in 10 y... </p> <br/> <br/>
 <p align="left">
 <a href="https://rahulprasad.hashnode.dev//display-your-latest-hashnode-blogs-on-your-github-profile-a-step-by-step-guide" title="Display Your Latest Hashnode Blogs on Your GitHub Profile: A Step-by-Step Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677419149842/41fa6a6f-83f6-4fcc-97d2-4c90fe9bbed5.png" alt="Display Your Latest Hashnode Blogs on Your GitHub Profile: A Step-by-Step Guide" width="250px" align="left" /></a>
 <a href="https://rahulprasad.hashnode.dev//display-your-latest-hashnode-blogs-on-your-github-profile-a-step-by-step-guide" title="Display Your Latest Hashnode Blogs on Your GitHub Profile: A Step-by-Step Guide"><strong>Display Your Latest Hashnode Blogs on Your GitHub Profile: A Step-by-Step Guide</strong></a>
