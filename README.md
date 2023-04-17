@@ -52,11 +52,11 @@ I'm very much excited 😃 to share my knowledge and research done to write📝t
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/33) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-2. 💪 Opened PR [#33](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/33) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-3. 🎉 Merged PR [#32](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/32) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-4. 💪 Opened PR [#32](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/32) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-5. 🎉 Merged PR [#28](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/28) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
+1. 🎉 Merged PR [#34](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/34) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+2. 💪 Opened PR [#34](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/34) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+3. 🎉 Merged PR [#33](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/33) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+4. 💪 Opened PR [#33](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/33) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+5. 🎉 Merged PR [#32](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/32) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
 <!--END_SECTION:activity-->
 
 
