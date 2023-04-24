@@ -52,11 +52,11 @@ I'm very much excited 😃 to share my knowledge and research done to write📝t
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Rahul-Prasad-07/crud-node-app/pull/1) in [Rahul-Prasad-07/crud-node-app](https://github.com/Rahul-Prasad-07/crud-node-app)
-2. 💪 Opened PR [#1](https://github.com/Rahul-Prasad-07/crud-node-app/pull/1) in [Rahul-Prasad-07/crud-node-app](https://github.com/Rahul-Prasad-07/crud-node-app)
-3. 💪 Opened PR [#627](https://github.com/smartcontractkit/smart-contract-db/pull/627) in [smartcontractkit/smart-contract-db](https://github.com/smartcontractkit/smart-contract-db)
-4. ❗️ Opened issue [#626](https://github.com/smartcontractkit/smart-contract-db/issues/626) in [smartcontractkit/smart-contract-db](https://github.com/smartcontractkit/smart-contract-db)
-5. 🎉 Merged PR [#34](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/34) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+1. ❗️ Opened issue [#1263](https://github.com/smartcontractkit/documentation/issues/1263) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
+2. 💪 Opened PR [#1262](https://github.com/smartcontractkit/documentation/pull/1262) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
+3. 🎉 Merged PR [#1](https://github.com/Rahul-Prasad-07/crud-node-app/pull/1) in [Rahul-Prasad-07/crud-node-app](https://github.com/Rahul-Prasad-07/crud-node-app)
+4. 💪 Opened PR [#1](https://github.com/Rahul-Prasad-07/crud-node-app/pull/1) in [Rahul-Prasad-07/crud-node-app](https://github.com/Rahul-Prasad-07/crud-node-app)
+5. 💪 Opened PR [#627](https://github.com/smartcontractkit/smart-contract-db/pull/627) in [smartcontractkit/smart-contract-db](https://github.com/smartcontractkit/smart-contract-db)
 <!--END_SECTION:activity-->
 
 
