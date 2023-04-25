@@ -52,11 +52,11 @@ I'm very much excited 😃 to share my knowledge and research done to write📝t
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1266](https://github.com/smartcontractkit/documentation/issues/1266) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
-2. ❗️ Opened issue [#1263](https://github.com/smartcontractkit/documentation/issues/1263) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
-3. 💪 Opened PR [#1262](https://github.com/smartcontractkit/documentation/pull/1262) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
-4. 🎉 Merged PR [#1](https://github.com/Rahul-Prasad-07/crud-node-app/pull/1) in [Rahul-Prasad-07/crud-node-app](https://github.com/Rahul-Prasad-07/crud-node-app)
-5. 💪 Opened PR [#1](https://github.com/Rahul-Prasad-07/crud-node-app/pull/1) in [Rahul-Prasad-07/crud-node-app](https://github.com/Rahul-Prasad-07/crud-node-app)
+1. 💪 Opened PR [#1](https://github.com/Rahul-Prasad-07/documentation/pull/1) in [Rahul-Prasad-07/documentation](https://github.com/Rahul-Prasad-07/documentation)
+2. ❗️ Opened issue [#1266](https://github.com/smartcontractkit/documentation/issues/1266) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
+3. ❗️ Opened issue [#1263](https://github.com/smartcontractkit/documentation/issues/1263) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
+4. 💪 Opened PR [#1262](https://github.com/smartcontractkit/documentation/pull/1262) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
+5. 🎉 Merged PR [#1](https://github.com/Rahul-Prasad-07/crud-node-app/pull/1) in [Rahul-Prasad-07/crud-node-app](https://github.com/Rahul-Prasad-07/crud-node-app)
 <!--END_SECTION:activity-->
 
 
