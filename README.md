@@ -52,11 +52,11 @@ I'm very much excited 😃 to share my knowledge and research done to write📝t
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#178](https://github.com/twitter/opensource-website/issues/178) in [twitter/opensource-website](https://github.com/twitter/opensource-website)
-2. 🗣 Commented on [#1262](https://github.com/smartcontractkit/documentation/issues/1262) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
-3. 💪 Opened PR [#178](https://github.com/twitter/opensource-website/pull/178) in [twitter/opensource-website](https://github.com/twitter/opensource-website)
-4. ❗️ Opened issue [#177](https://github.com/twitter/opensource-website/issues/177) in [twitter/opensource-website](https://github.com/twitter/opensource-website)
-5. ❗️ Closed issue [#176](https://github.com/twitter/opensource-website/issues/176) in [twitter/opensource-website](https://github.com/twitter/opensource-website)
+1. ❗️ Closed issue [#1266](https://github.com/smartcontractkit/documentation/issues/1266) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
+2. ❌ Closed PR [#1](https://github.com/Rahul-Prasad-07/documentation/pull/1) in [Rahul-Prasad-07/documentation](https://github.com/Rahul-Prasad-07/documentation)
+3. 🗣 Commented on [#1262](https://github.com/smartcontractkit/documentation/issues/1262) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
+4. 🗣 Commented on [#178](https://github.com/twitter/opensource-website/issues/178) in [twitter/opensource-website](https://github.com/twitter/opensource-website)
+5. 🗣 Commented on [#1262](https://github.com/smartcontractkit/documentation/issues/1262) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
 <!--END_SECTION:activity-->
 
 
