@@ -52,11 +52,11 @@ I'm very much excited 😃 to share my knowledge and research done to write📝t
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#29](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/29) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
-2. ❗️ Closed issue [#1266](https://github.com/smartcontractkit/documentation/issues/1266) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
-3. ❌ Closed PR [#1](https://github.com/Rahul-Prasad-07/documentation/pull/1) in [Rahul-Prasad-07/documentation](https://github.com/Rahul-Prasad-07/documentation)
-4. 🗣 Commented on [#1262](https://github.com/smartcontractkit/documentation/issues/1262) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
-5. 🗣 Commented on [#178](https://github.com/twitter/opensource-website/issues/178) in [twitter/opensource-website](https://github.com/twitter/opensource-website)
+1. 🎉 Merged PR [#35](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/35) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+2. 💪 Opened PR [#35](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/35) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+3. ❌ Closed PR [#29](https://github.com/Rahul-Prasad-07/Rahul-Projects/pull/29) in [Rahul-Prasad-07/Rahul-Projects](https://github.com/Rahul-Prasad-07/Rahul-Projects)
+4. ❗️ Closed issue [#1266](https://github.com/smartcontractkit/documentation/issues/1266) in [smartcontractkit/documentation](https://github.com/smartcontractkit/documentation)
+5. ❌ Closed PR [#1](https://github.com/Rahul-Prasad-07/documentation/pull/1) in [Rahul-Prasad-07/documentation](https://github.com/Rahul-Prasad-07/documentation)
 <!--END_SECTION:activity-->
 
 
