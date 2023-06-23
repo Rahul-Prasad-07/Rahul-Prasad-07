@@ -52,11 +52,11 @@ I'm very much excited 😃 to share my knowledge and research done to write📝t
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/32) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
-2. 💪 Opened PR [#32](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/32) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
-3. 🎉 Merged PR [#31](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/31) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
-4. 💪 Opened PR [#31](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/31) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
-5. 🎉 Merged PR [#30](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/30) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
+1. 🎉 Merged PR [#1](https://github.com/Rahul-Prasad-07/Amplication-Todo/pull/1) in [Rahul-Prasad-07/Amplication-Todo](https://github.com/Rahul-Prasad-07/Amplication-Todo)
+2. 🎉 Merged PR [#32](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/32) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
+3. 💪 Opened PR [#32](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/32) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
+4. 🎉 Merged PR [#31](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/31) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
+5. 💪 Opened PR [#31](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/31) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
 <!--END_SECTION:activity-->
 
 
