@@ -52,11 +52,11 @@ I'm very much excited 😃 to share my knowledge and research done to write📝t
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Rahul-Prasad-07/Amplication-Todo/pull/1) in [Rahul-Prasad-07/Amplication-Todo](https://github.com/Rahul-Prasad-07/Amplication-Todo)
-2. 🎉 Merged PR [#32](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/32) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
-3. 💪 Opened PR [#32](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/32) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
-4. 🎉 Merged PR [#31](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/31) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
-5. 💪 Opened PR [#31](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT/pull/31) in [Rahul-Prasad-07/P2P-Lending-CAT](https://github.com/Rahul-Prasad-07/P2P-Lending-CAT)
+1. 🎉 Merged PR [#1](https://github.com/Rahul-Prasad-07/Octernship/pull/1) in [Rahul-Prasad-07/Octernship](https://github.com/Rahul-Prasad-07/Octernship)
+2. 🎉 Merged PR [#2](https://github.com/Rahul-Prasad-07/Octernship/pull/2) in [Rahul-Prasad-07/Octernship](https://github.com/Rahul-Prasad-07/Octernship)
+3. 🎉 Merged PR [#3](https://github.com/Rahul-Prasad-07/Octernship/pull/3) in [Rahul-Prasad-07/Octernship](https://github.com/Rahul-Prasad-07/Octernship)
+4. 🎉 Merged PR [#4](https://github.com/Rahul-Prasad-07/Octernship/pull/4) in [Rahul-Prasad-07/Octernship](https://github.com/Rahul-Prasad-07/Octernship)
+5. 🎉 Merged PR [#1](https://github.com/Rahul-Prasad-07/Amplication-Todo/pull/1) in [Rahul-Prasad-07/Amplication-Todo](https://github.com/Rahul-Prasad-07/Amplication-Todo)
 <!--END_SECTION:activity-->
 
 
