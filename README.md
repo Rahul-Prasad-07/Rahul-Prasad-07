@@ -52,11 +52,11 @@ I'm very much excited 😃 to share my knowledge and research done to write📝t
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/Rahul-Prasad-07/Octernship/pull/5) in [Rahul-Prasad-07/Octernship](https://github.com/Rahul-Prasad-07/Octernship)
-2. ❌ Closed PR [#6](https://github.com/Rahul-Prasad-07/Octernship/pull/6) in [Rahul-Prasad-07/Octernship](https://github.com/Rahul-Prasad-07/Octernship)
-3. ❌ Closed PR [#7](https://github.com/Rahul-Prasad-07/Octernship/pull/7) in [Rahul-Prasad-07/Octernship](https://github.com/Rahul-Prasad-07/Octernship)
-4. ❌ Closed PR [#9](https://github.com/Rahul-Prasad-07/Octernship/pull/9) in [Rahul-Prasad-07/Octernship](https://github.com/Rahul-Prasad-07/Octernship)
-5. ❌ Closed PR [#8](https://github.com/Rahul-Prasad-07/Octernship/pull/8) in [Rahul-Prasad-07/Octernship](https://github.com/Rahul-Prasad-07/Octernship)
+1. ❌ Closed PR [#10](https://github.com/Rahul-Prasad-07/Octernship/pull/10) in [Rahul-Prasad-07/Octernship](https://github.com/Rahul-Prasad-07/Octernship)
+2. ❌ Closed PR [#11](https://github.com/Rahul-Prasad-07/Octernship/pull/11) in [Rahul-Prasad-07/Octernship](https://github.com/Rahul-Prasad-07/Octernship)
+3. ❌ Closed PR [#12](https://github.com/Rahul-Prasad-07/Octernship/pull/12) in [Rahul-Prasad-07/Octernship](https://github.com/Rahul-Prasad-07/Octernship)
+4. ❌ Closed PR [#13](https://github.com/Rahul-Prasad-07/Octernship/pull/13) in [Rahul-Prasad-07/Octernship](https://github.com/Rahul-Prasad-07/Octernship)
+5. ❌ Closed PR [#5](https://github.com/Rahul-Prasad-07/Octernship/pull/5) in [Rahul-Prasad-07/Octernship](https://github.com/Rahul-Prasad-07/Octernship)
 <!--END_SECTION:activity-->
 
 
