@@ -52,11 +52,11 @@ I'm very much excited 😃 to share my knowledge and research done to write📝t
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Rahul-Prasad-07/I-DEX/pull/6) in [Rahul-Prasad-07/I-DEX](https://github.com/Rahul-Prasad-07/I-DEX)
-2. 💪 Opened PR [#6](https://github.com/Rahul-Prasad-07/I-DEX/pull/6) in [Rahul-Prasad-07/I-DEX](https://github.com/Rahul-Prasad-07/I-DEX)
-3. 🎉 Merged PR [#5](https://github.com/Rahul-Prasad-07/I-DEX/pull/5) in [Rahul-Prasad-07/I-DEX](https://github.com/Rahul-Prasad-07/I-DEX)
-4. 💪 Opened PR [#5](https://github.com/Rahul-Prasad-07/I-DEX/pull/5) in [Rahul-Prasad-07/I-DEX](https://github.com/Rahul-Prasad-07/I-DEX)
-5. 🎉 Merged PR [#4](https://github.com/Rahul-Prasad-07/I-DEX/pull/4) in [Rahul-Prasad-07/I-DEX](https://github.com/Rahul-Prasad-07/I-DEX)
+1. 🚀 Published release [V1.0.0](https://github.com/Rahul-Prasad-07/ETH-Bootcamp/releases/tag/V1.0.0) in [Rahul-Prasad-07/ETH-Bootcamp](https://github.com/Rahul-Prasad-07/ETH-Bootcamp)
+2. 🎉 Merged PR [#6](https://github.com/Rahul-Prasad-07/I-DEX/pull/6) in [Rahul-Prasad-07/I-DEX](https://github.com/Rahul-Prasad-07/I-DEX)
+3. 💪 Opened PR [#6](https://github.com/Rahul-Prasad-07/I-DEX/pull/6) in [Rahul-Prasad-07/I-DEX](https://github.com/Rahul-Prasad-07/I-DEX)
+4. 🎉 Merged PR [#5](https://github.com/Rahul-Prasad-07/I-DEX/pull/5) in [Rahul-Prasad-07/I-DEX](https://github.com/Rahul-Prasad-07/I-DEX)
+5. 💪 Opened PR [#5](https://github.com/Rahul-Prasad-07/I-DEX/pull/5) in [Rahul-Prasad-07/I-DEX](https://github.com/Rahul-Prasad-07/I-DEX)
 <!--END_SECTION:activity-->
 
 
