@@ -52,11 +52,11 @@ I'm very much excited 😃 to share my knowledge and research done to write📝t
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Rahul-Prasad-07/Crypto-server/pull/1) in [Rahul-Prasad-07/Crypto-server](https://github.com/Rahul-Prasad-07/Crypto-server)
-2. 💪 Opened PR [#1](https://github.com/Rahul-Prasad-07/Crypto-server/pull/1) in [Rahul-Prasad-07/Crypto-server](https://github.com/Rahul-Prasad-07/Crypto-server)
-3. 🚀 Published release [I-DEX V1](https://github.com/Rahul-Prasad-07/I-DEX/releases/tag/V1.0.0) in [Rahul-Prasad-07/I-DEX](https://github.com/Rahul-Prasad-07/I-DEX)
-4. 🚀 Published release [V1.0.0](https://github.com/Rahul-Prasad-07/ETH-Bootcamp/releases/tag/V1.0.0) in [Rahul-Prasad-07/ETH-Bootcamp](https://github.com/Rahul-Prasad-07/ETH-Bootcamp)
-5. 🎉 Merged PR [#6](https://github.com/Rahul-Prasad-07/I-DEX/pull/6) in [Rahul-Prasad-07/I-DEX](https://github.com/Rahul-Prasad-07/I-DEX)
+1. 🚀 Published release [I-DEX V1](https://github.com/Rahul-Prasad-07/I-DEX/releases/tag/V1.0.0) in [Rahul-Prasad-07/I-DEX](https://github.com/Rahul-Prasad-07/I-DEX)
+2. 🚀 Published release [V1.0.0](https://github.com/Rahul-Prasad-07/ETH-Bootcamp/releases/tag/V1.0.0) in [Rahul-Prasad-07/ETH-Bootcamp](https://github.com/Rahul-Prasad-07/ETH-Bootcamp)
+3. 🎉 Merged PR [#6](https://github.com/Rahul-Prasad-07/I-DEX/pull/6) in [Rahul-Prasad-07/I-DEX](https://github.com/Rahul-Prasad-07/I-DEX)
+4. 💪 Opened PR [#6](https://github.com/Rahul-Prasad-07/I-DEX/pull/6) in [Rahul-Prasad-07/I-DEX](https://github.com/Rahul-Prasad-07/I-DEX)
+5. 🎉 Merged PR [#5](https://github.com/Rahul-Prasad-07/I-DEX/pull/5) in [Rahul-Prasad-07/I-DEX](https://github.com/Rahul-Prasad-07/I-DEX)
 <!--END_SECTION:activity-->
 
 
