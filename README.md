@@ -52,11 +52,11 @@ I'm very much excited 😃 to share my knowledge and research done to write📝t
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Rahul-Prasad-07/Crypto-server/pull/4) in [Rahul-Prasad-07/Crypto-server](https://github.com/Rahul-Prasad-07/Crypto-server)
-2. 💪 Opened PR [#4](https://github.com/Rahul-Prasad-07/Crypto-server/pull/4) in [Rahul-Prasad-07/Crypto-server](https://github.com/Rahul-Prasad-07/Crypto-server)
-3. 🎉 Merged PR [#3](https://github.com/Rahul-Prasad-07/Crypto-server/pull/3) in [Rahul-Prasad-07/Crypto-server](https://github.com/Rahul-Prasad-07/Crypto-server)
-4. 💪 Opened PR [#3](https://github.com/Rahul-Prasad-07/Crypto-server/pull/3) in [Rahul-Prasad-07/Crypto-server](https://github.com/Rahul-Prasad-07/Crypto-server)
-5. 🎉 Merged PR [#2](https://github.com/Rahul-Prasad-07/Crypto-server/pull/2) in [Rahul-Prasad-07/Crypto-server](https://github.com/Rahul-Prasad-07/Crypto-server)
+1. ❗ Opened issue [#3](https://github.com/Milan-960/Nodejs-swagger-api/issues/3) in [Milan-960/Nodejs-swagger-api](https://github.com/Milan-960/Nodejs-swagger-api)
+2. 🎉 Merged PR [#4](https://github.com/Rahul-Prasad-07/Crypto-server/pull/4) in [Rahul-Prasad-07/Crypto-server](https://github.com/Rahul-Prasad-07/Crypto-server)
+3. 💪 Opened PR [#4](https://github.com/Rahul-Prasad-07/Crypto-server/pull/4) in [Rahul-Prasad-07/Crypto-server](https://github.com/Rahul-Prasad-07/Crypto-server)
+4. 🎉 Merged PR [#3](https://github.com/Rahul-Prasad-07/Crypto-server/pull/3) in [Rahul-Prasad-07/Crypto-server](https://github.com/Rahul-Prasad-07/Crypto-server)
+5. 💪 Opened PR [#3](https://github.com/Rahul-Prasad-07/Crypto-server/pull/3) in [Rahul-Prasad-07/Crypto-server](https://github.com/Rahul-Prasad-07/Crypto-server)
 <!--END_SECTION:activity-->
 
 
